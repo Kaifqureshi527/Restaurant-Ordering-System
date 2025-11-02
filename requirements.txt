@@ -1,0 +1,2 @@
+# requirements.txt
+# Python standard libraries only (no external dependencies)
